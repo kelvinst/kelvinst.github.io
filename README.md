@@ -1,4 +1,4 @@
 kelvinst.github.io
 ==================
 
-My personal website
+Just my GitHub Pages personal website
