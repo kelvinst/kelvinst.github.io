@@ -1,56 +1,53 @@
 <!doctype html>
-<html>
-  <head>
-    <meta charset="utf-8">
-    <meta http-equiv="X-UA-Compatible" content="chrome=1">
-    <title>{% if page.title %} {{ page.title }} | {% endif %} {{ site.name }}</title>
-    <link rel="stylesheet" href="{{ site.url }}/css/old/styles.css">
-    <link rel="stylesheet" href="{{ site.url }}/css/old/pygment_trac.css">
-    <!--[if lt IE 8]>
-      <link rel="stylesheet" href="css/old/ie.css">
-    <![endif]-->
+<!--[if IE 8]>         <html class="no-js lt-ie9" lang="en" > <![endif]-->
+<!--[if gt IE 8]><!--> <html class="no-js" lang="en" > <!--<![endif]-->
 
-    <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.7.1/jquery.min.js"></script>
-    <script src="{{ site.url }}/js/old/respond.js"></script>
-    <!--[if lt IE 9]>
-      <script src="//html5shiv.googlecode.com/svn/trunk/html5.js"></script>
-    <![endif]-->
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width">
 
-    <meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no">
-  </head>
-  <body>
-    <div id="header">
-      <nav>
-        <li class="fork"><a href="https://github.com/kelvinst">Follow me on GitHub</a></li>
-      </nav>
-    </div>
+  <title>{% if page.title %} {{ page.title }} | {% endif %} {{ site.name }}</title>
 
-    <div class="wrapper">
-      <section>
-        <div id="title">
-          <h1>Kelvin Raffael Stinghen</h1>
-          <p>kelvinst || -.- .-. ...</p>
-          <hr>
-          <span class="credits left">Hosted on GitHub Pages</span>
-          <span class="credits right">Theme by <a href="https://twitter.com/michigangraham">mattgraham</a></span>
-        </div>
+  <link rel="stylesheet" href="{{ site.url }}/css/foundation.css">
+  <link rel="stylesheet" href="{{ site.url }}/css/styles.css">
 
-        {{ content }}
-      </section>
-    </div>
+  <script src="{{ site.url }}/js/vendor/custom.modernizr.js"></script>
+</head>
 
-    <!--[if !IE]><script>fixScale(document);</script><![endif]-->
+<body>
+  <div id="header">
+    <nav>
+      <li class="fork"><a href="https://github.com/kelvinst">Follow me on GitHub</a></li>
+    </nav>
+  </div>
 
-    <script type="text/javascript">
-      var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
-      document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
-    </script>
+  <div class="wrapper">
+    <section>
+      <div id="title">
+        <h1>Kelvin Raffael Stinghen</h1>
+        <p>kelvinst || -.- .-. ...</p>
+        <hr>
+        <span class="credits left">Hosted on GitHub Pages</span>
+        <span class="credits right">Theme by <a href="https://twitter.com/michigangraham">mattgraham</a></span>
+      </div>
 
-    <script type="text/javascript">
-      try {
-        var pageTracker = _gat._getTracker("Kelvin Raffael Stinghen, kelvinst");
-        pageTracker._trackPageview();
-      } catch(err) {}
-    </script>
-  </body>
+      {{ content }}
+    </section>
+  </div>
+
+  <!--[if !IE]><script>fixScale(document);</script><![endif]-->
+
+  <script type="text/javascript">
+    var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+    document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+  </script>
+
+  <script type="text/javascript">
+    try {
+      var pageTracker = _gat._getTracker("Kelvin Raffael Stinghen, kelvinst");
+      pageTracker._trackPageview();
+    } catch(err) {}
+  </script>
+</body>
+
 </html>
