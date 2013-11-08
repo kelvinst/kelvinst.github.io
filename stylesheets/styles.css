@@ -390,7 +390,7 @@ fieldset {
 
 /*
  * 1. Corrects color not being inherited in IE6/7/8/9
- * 2. Corrects text not wrapping in FF3 
+ * 2. Corrects text not wrapping in FF3
  * 3. Corrects alignment displayed oddly in IE6/7
  */
 legend {
@@ -848,4 +848,15 @@ section #title .credits.right {
   nav {
     display: none;
   }
+}
+
+/* =============================================================================
+ * Emoji
+ * ========================================================================== */
+/*
+ * Just to make the emoji small
+ */
+img[alt=emoji] {
+  height: 20px;
+  width: 20px;
 }
