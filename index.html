@@ -1,61 +1,10 @@
-<!doctype html>
-<html>
-  <head>
-    <meta charset="utf-8">
-    <meta http-equiv="X-UA-Compatible" content="chrome=1">
-    <title>kelvinst blog</title>
-    <link rel="stylesheet" href="stylesheets/styles.css">
-    <link rel="stylesheet" href="stylesheets/pygment_trac.css">
-    <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.7.1/jquery.min.js"></script>
-    <script src="javascripts/respond.js"></script>
-    <!--[if lt IE 9]>
-      <script src="//html5shiv.googlecode.com/svn/trunk/html5.js"></script>
-    <![endif]-->
-    <!--[if lt IE 8]>
-    <link rel="stylesheet" href="stylesheets/ie.css">
-    <![endif]-->
-    <meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no">
+---
+layout: default
+---
 
-  </head>
-  <body>
-    <div id="header">
-      <nav>
-        <li class="fork"><a href="https://github.com/kelvinst">View On GitHub</a></li>
-      </nav>
-    </div>
-
-    <div class="wrapper">
-
-      <section>
-        <div id="title">
-          <h1>Kelvin Raffael Stinghen</h1>
-          <p>kelvinst -.- .-. ...</p>
-          <hr>
-          <span class="credits right">Hosted on GitHub Pages &mdash; Theme by <a href="https://twitter.com/michigangraham">mattgraham</a></span>
-        </div>
-
-        <p>Hi! Thank you for being at here! <img class="emoji" title=":smiley:" alt=":smiley:" src="https://github.global.ssl.fastly.net/images/icons/emoji/smiley.png" height="20" width="20" align="absmiddle"></p>
-
-        <p>My name is Kelvin Stinghen, and I'm an enthusiast developer from Brazil. Currently residing at Blumenau, SC, but born in the litlle village of Massaranduba, SC.</p>
-
-        <p>I'm addicted with ruby development and love the open source community. Professionally (at companies), I had experiences with Java, C, Delphi, and some other languages that doesn't need to be exposed here.</p>
-
-        <p>And, about the blog: hopefully, in the future, I'll be working on it.</p>
-
-        <p>The end.</p>
-      </section>
-
-    </div>
-    <!--[if !IE]><script>fixScale(document);</script><![endif]-->
-    <script type="text/javascript">
-      var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
-      document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
-    </script>
-    <script type="text/javascript">
-      try {
-        var pageTracker = _gat._getTracker("Kelvin Raffael Stinghen, kelvinst");
-        pageTracker._trackPageview();
-      } catch(err) {}
-    </script>
-  </body>
-</html>
+<h1>Posts</h1>
+<ul>
+  {% for post in site.posts %}
+    <li><span>{{ post.date | date_to_string }}</span> - <a href="{{ post.url }}">{{ post.title }}</a></li>
+  {% endfor %}
+</ul>
