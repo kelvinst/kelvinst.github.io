@@ -1,56 +1,47 @@
 <!doctype html>
-<html>
-  <head>
-    <meta charset="utf-8">
-    <meta http-equiv="X-UA-Compatible" content="chrome=1">
-    <title>{% if page.title %} {{ page.title }} | {% endif %} {{ site.name }}</title>
-    <link rel="stylesheet" href="{{ site.url }}/stylesheets/styles.css">
-    <link rel="stylesheet" href="{{ site.url }}/stylesheets/pygment_trac.css">
-    <!--[if lt IE 8]>
-      <link rel="stylesheet" href="stylesheets/ie.css">
-    <![endif]-->
+<!--[if IE 8]>         <html class="no-js lt-ie9" lang="en" > <![endif]-->
+<!--[if gt IE 8]><!--> <html class="no-js" lang="en" > <!--<![endif]-->
 
-    <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.7.1/jquery.min.js"></script>
-    <script src="{{ site.url }}/javascripts/respond.js"></script>
-    <!--[if lt IE 9]>
-      <script src="//html5shiv.googlecode.com/svn/trunk/html5.js"></script>
-    <![endif]-->
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width">
 
-    <meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no">
-  </head>
-  <body>
-    <div id="header">
-      <nav>
-        <li class="fork"><a href="https://github.com/kelvinst">Follow me on GitHub</a></li>
-      </nav>
+  <title>{% if page.title %} {{ page.title }} | {% endif %} {{ site.name }}</title>
+
+  <link rel="stylesheet" href="{{ site.url }}/css/foundation.css">
+  <link rel="stylesheet" href="{{ site.url }}/css/styles.css">
+
+  <script src="{{ site.url }}/js/vendor/custom.modernizr.js"></script>
+</head>
+
+<body>
+  <header>
+    <div class="row">
+      <div class="nav-bar">
+        <ul class="button-group radius">
+          <li>
+            <a href="https://github.com/kelvinst" class="tiny button success"><img src="{{ site.url }}/img/github.png" /></a>
+          </li>
+        </ul>
+      </div>
+    </div>
+  </header>
+
+  <div class="row">
+    <div class="title large-12 columns">
+      <h1>Kelvin Raffael Stinghen</h1>
+      <p>kelvinst || -.- .-. ...</p>
+      <hr>
+      <div class="credits">
+        <div class="large-6 columns">Hosted on GitHub Pages</div>
+        <div class="right large-6 columns">Theme by <a href="https://twitter.com/michigangraham">mattgraham</a></div>
+      </div>
     </div>
 
-    <div class="wrapper">
-      <section>
-        <div id="title">
-          <h1>Kelvin Raffael Stinghen</h1>
-          <p>kelvinst || -.- .-. ...</p>
-          <hr>
-          <span class="credits left">Hosted on GitHub Pages</span>
-          <span class="credits right">Theme by <a href="https://twitter.com/michigangraham">mattgraham</a></span>
-        </div>
-
-        {{ content }}
-      </section>
+    <div class="large-12 columns">
+      {{ content }}
     </div>
+  </div>
+</body>
 
-    <!--[if !IE]><script>fixScale(document);</script><![endif]-->
-
-    <script type="text/javascript">
-      var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
-      document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
-    </script>
-
-    <script type="text/javascript">
-      try {
-        var pageTracker = _gat._getTracker("Kelvin Raffael Stinghen, kelvinst");
-        pageTracker._trackPageview();
-      } catch(err) {}
-    </script>
-  </body>
 </html>
