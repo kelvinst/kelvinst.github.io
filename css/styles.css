@@ -116,11 +116,7 @@ header .button-group .button {
 .title {
   border: 0;
 }
-.title h1 {
-  text-align: center;
-}
-.title p {
-  color: #d7cfbe;
+.title h1, .title h6 {
   text-align: center;
 }
 .credits {
