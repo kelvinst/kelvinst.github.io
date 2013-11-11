@@ -110,7 +110,11 @@ header {
 }
 
 header .button-group .button {
-  margin: 5px;
+  margin: 5px 0 5px 0;
+}
+
+header .button-group .medium.button {
+  padding: 11px;
 }
 
 .title {
@@ -119,6 +123,7 @@ header .button-group .button {
 .title h1, .title h6 {
   text-align: center;
 }
+
 .credits {
   font-size: 11px;
   color: #696969;
