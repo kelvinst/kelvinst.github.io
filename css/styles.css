@@ -113,6 +113,10 @@ header .button-group .button {
   margin: 5px 0 5px 0;
 }
 
+header .button-group .medium.button {
+  padding: 12px;
+}
+
 .title {
   border: 0;
 }
