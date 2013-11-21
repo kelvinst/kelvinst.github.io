@@ -1,3 +1,11 @@
 name: kelvinst blog
 pygments: true
 permalink: pretty
+
+gems:
+  - jekyll-sass
+
+sass:
+  style: expanded
+  deploy_style: compressed
+  compile_in_place: false
