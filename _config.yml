@@ -1,6 +1,0 @@
-name: kelvinst blog
-pygments: true
-permalink: pretty
-
-gems:
-  - jekyll-sass
