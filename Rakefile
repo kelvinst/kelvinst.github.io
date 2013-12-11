@@ -36,12 +36,14 @@ task :publish do
     exit(1)
   end
 
-  puts "Building jekyll site..."
-  sh "jekyll build"
-
   # Ensure gh-pages branch is up to date.
   Dir.chdir('gh-pages') do
     sh "git pull origin gh-pages"
+  end
+
+  # Delete all files from gh-pages before copying, to ensure that the removed files will be removed
+  Dir['gh-pages/*'].each do |file|
+    File.delete file unless file == '.git'
   end
 
   puts "Copying site to gh-pages branch..."

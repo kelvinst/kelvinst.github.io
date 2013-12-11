@@ -6,5 +6,5 @@ gem 'wdm'
 gem 'launchy'
 
 group :plugins do
-  gem 'jekyll-sass'
+  gem 'jekyll-compass'
 end

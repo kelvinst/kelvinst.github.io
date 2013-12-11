@@ -2,5 +2,10 @@ name: kelvinst blog
 pygments: true
 permalink: pretty
 
+exclude:
+  - gh-pages
+  - Gemfile*
+  - Rakefile
+
 gems:
-  - jekyll-sass
+  - jekyll-compass
