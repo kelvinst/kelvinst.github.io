@@ -50,6 +50,10 @@ task :publish do
     puts "The project have some unpulled files, please pull them."
     exit(1)
   end
+  if status.match(/^# Your branch and .* have diverged/)
+    puts "The project have some unpulled and unpushed files, please merge and push them."
+    exit(1)
+  end
 
   puts "Checking for master dir..."
   unless File.exist?("./master")
