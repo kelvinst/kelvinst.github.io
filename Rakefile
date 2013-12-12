@@ -42,16 +42,10 @@ task :publish do
     puts "The project have some uncommited files, please commit and push them."
     exit(1)
   end
-  if status.match(/^# Your branch is ahead of/)
-    puts "The project have some unpushed files, please push them."
-    exit(1)
-  end
-  if status.match(/^# Your branch is behind of/)
-    puts "The project have some unpulled files, please pull them."
-    exit(1)
-  end
-  if status.match(/^# Your branch and .* have diverged/)
-    puts "The project have some unpulled and unpushed files, please merge and push them."
+  if status.match(/^# Your branch is ahead of/) ||
+      status.match(/^# Your branch is behind of/) ||
+      status.match(/^# Your branch and .* have diverged/)
+    puts "The project is not sync with origin, please resolve this before publish."
     exit(1)
   end
 
