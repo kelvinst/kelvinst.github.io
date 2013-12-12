@@ -25,38 +25,57 @@ task :update_normalize_css do
   end
 end
 
-desc "Commit the local site to the gh-pages branch and publish to GitHub Pages"
+desc "Commit the local site to the master branch and publish to GitHub Pages"
 task :publish do
-  puts "Checking for gh-pages dir..."
-  unless File.exist?("./gh-pages")
-    puts "No gh-pages directory found. Run the following commands first:"
-    puts "  $ git clone https://github.com/kelvinst/kelvinst.github.io gh-pages"
-    puts "  $ cd gh-pages"
-    puts "  $ git checkout gh-pages"
+  puts "Checking the branch..."
+  branch = `git branch`.match(/^\* ([a-z0-9]*)$/)[1]
+  unless branch == "source"
+    puts "You're not at the source branch, you cannot publish another branch to gh-pages."
+    puts "Please, if you really want to publish THIS content, merge it on source branch and then call this task again."
     exit(1)
   end
 
-  # Ensure gh-pages branch is up to date.
-  Dir.chdir('gh-pages') do
-    sh "git pull origin gh-pages"
+  puts "Checking project status..."
+  status = `git status`
+  puts status
+  unless status.match(/^nothing to commit, working directory clean$/)
+    puts "The project have some uncommited files, please commit and push them."
+    exit(1)
+  end
+  if status.match(/^# Your branch is ahead of/)
+    puts "The project have some unpushed files, please push them."
+    exit(1)
+  end
+  if status.match(/^# Your branch is behind of/)
+    puts "The project have some unpulled files, please pull them."
+    exit(1)
   end
 
-  # Delete all files from gh-pages before copying, to ensure that the removed files will be removed
-  Dir['gh-pages/*'].each do |file|
-    File.delete file unless file == '.git'
+  puts "Checking for master dir..."
+  unless File.exist?("./master")
+    puts "No master directory found. Run the following commands first:"
+    puts "  $ git clone https://github.com/kelvinst/kelvinst.github.io master"
+    puts "  $ cd master"
+    puts "  $ git checkout master"
+    exit(1)
   end
 
-  puts "Copying site to gh-pages branch..."
+  # Ensure master branch is up to date.
+  Dir.chdir('master') do
+    sh "git pull origin master"
+  end
+
+  puts "Copying site to master branch..."
   Dir.glob("_site/*") do |path|
-    sh "cp -R #{path} gh-pages/"
+    sh "cp -R #{path} master/"
   end
 
   puts "Committing and pushing to GitHub Pages..."
   sha = `git log`.match(/[a-z0-9]{40}/)[0]
-  Dir.chdir('gh-pages') do
+  Dir.chdir('master') do
     sh "git add ."
     sh "git commit -m \"Updating to #{sha}.\""
-    sh "git push origin gh-pages"
+    sh "git push origin master"
   end
   puts 'Done.'
 end
