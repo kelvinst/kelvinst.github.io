@@ -13,7 +13,7 @@ task :preview do
 
   # Generate the site in server mode.
   puts "Running Jekyll..."
-  sh "jekyll serve --watch"
+  sh "jekyll serve --watch --trace"
 end
 
 desc "Commit the local site to the master branch and publish to GitHub Pages"
@@ -48,6 +48,9 @@ task :publish do
     puts "  $ git checkout master"
     exit(1)
   end
+
+  puts "Building the site..."
+  sh "jekyll build --trace"
 
   # Ensure master branch is up to date.
   Dir.chdir('master') do
