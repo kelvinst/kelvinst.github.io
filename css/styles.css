@@ -1,3 +1,13 @@
+.buttons-sprite, .buttons-coderwall, .buttons-codeschool, .buttons-github, .buttons-linkedin { background: url('/images/sprites/buttons-s38d56e2123.png') no-repeat; }
+
+.buttons-coderwall { background-position: 0 -88px; height: 44px; width: 44px; }
+
+.buttons-codeschool { background-position: 0 0; height: 44px; width: 44px; }
+
+.buttons-github { background-position: 0 -44px; height: 44px; width: 44px; }
+
+.buttons-linkedin { background-position: 0 -132px; height: 44px; width: 44px; }
+
 body { color: #f0e7d5; background: #252525; background-attachment: fixed !important; background: -webkit-gradient(linear, 50% 0%, 50% 100%, color-stop(0%, #2a2a29), color-stop(100%, #1c1c1c)); background: -webkit-linear-gradient(#2a2a29, #1c1c1c); background: -moz-linear-gradient(#2a2a29, #1c1c1c); background: -o-linear-gradient(#2a2a29, #1c1c1c); background: -ms-linear-gradient(#2a2a29, #1c1c1c); background: linear-gradient(#2a2a29, #1c1c1c); }
 
 h1, h2, h4, h5, h6 { color: #e8e8e8; }
@@ -8,7 +18,7 @@ a { color: #ffcc00; }
 a:hover { color: #ffeb9b; }
 a small { color: #666666; margin-top: -0.6em; display: block; }
 
-ul { list-style-image: url("../../img/bullet.png"); margin-left: 10px; }
+ul { list-style-image: url("../../images/bullet.png"); margin-left: 10px; }
 
 blockquote { border-left: 3px solid #ffcc00; }
 
@@ -23,14 +33,14 @@ th { border-bottom: 1px solid #434343; color: #b6b6b6; }
 
 td { border-bottom: 1px solid #434343; }
 
-hr { border: 0; outline: none; height: 3px; background: transparent url("../../img/hr.png") center center repeat; }
+hr { border: 0; outline: none; height: 3px; background: transparent url("../../images/hr.png") center center repeat; }
 
 dt { color: #f0e7d5; }
 
-header { width: 100%; background: url("../../img/nav-bg.png") #353535; border-bottom: 4px solid #434343; -moz-box-shadow: 0px 1px 3px rgba(0, 0, 0, 0.25); -webkit-box-shadow: 0px 1px 3px rgba(0, 0, 0, 0.25); -o-box-shadow: 0px 1px 3px rgba(0, 0, 0, 0.25); box-shadow: 0px 1px 3px rgba(0, 0, 0, 0.25); }
+header { width: 100%; background: url("../../images/nav-bg.png") #353535; border-bottom: 4px solid #434343; -moz-box-shadow: 0px 1px 3px rgba(0, 0, 0, 0.25); -webkit-box-shadow: 0px 1px 3px rgba(0, 0, 0, 0.25); -o-box-shadow: 0px 1px 3px rgba(0, 0, 0, 0.25); box-shadow: 0px 1px 3px rgba(0, 0, 0, 0.25); }
 
 header .button-group .button { margin: 5px 0 5px 0; }
-header .button-group .medium.button { padding: 11px; }
+header .button-group .button.medium { padding: 11px; }
 
 .title { border: 0; }
 .title h1, .title h6 { text-align: center; }
