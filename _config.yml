@@ -3,7 +3,7 @@ pygments: true
 permalink: pretty
 
 exclude:
-  - gh-pages
+  - master
   - Gemfile*
   - Rakefile
 
