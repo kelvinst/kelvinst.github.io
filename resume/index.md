@@ -36,6 +36,28 @@ If you want to know about my open-source contributions, take a look at my [GitHu
 
 About idioms, I speak fluently brazilian portuguese (obviously), english in advanced level, and german at a very basic level.
 
+Above, somethings that I worked with (professionally, contributing to open-source or just studying).
+
+#### Programming Languages
+
+- **Advanced:** Java, Object Pascal, Ruby
+- **Intermediary:** JavaScript
+- **Basic:** Python, LISP, R, Objective-C, CoffeScript
+
+#### Frameworks
+
+- **Advanced:** Delphi VCL, Ruby on Rails
+- **Basic:** Spring
+
+#### IDEs/Editors
+
+- **Advanced:** Eclipse, Delphi, Sublime Text
+- **Intermediary:** Microsoft Visual Studio, RubyMine
+
+#### Technologies/Apps
+
+- HTML5, CSS3, Maven, Hudson CI, Git, CVS, SVN, YAML, Office Studio, Microsoft Project, Travis CI, GitHub, CodeClimate, Node.js, Sass, Foundation, jQuery, Backbone.js, Bootstrap, RubyGems, RVM, Bundler, Bower, Compass, Jekyll, Nano, Devise, Pry, Markdown, Vim, Emacs, Gradle, Rugged
+
 <h3 id="work-exp">Work experience</h3>
 
 
@@ -51,9 +73,9 @@ After a new promotion and the end of the architectural restructuring, I was move
 *SENIOR SA &mdash; Blumenau, SC, Brazil*<br/>
 *Feb '10 - Aug '12*
 
-After the promotion, I was moved to a team that was responsible to make an architectural restructuring to support a new way to install the Senior distributed system, wich have pretty more complex implementations than in the internationalization project. In this post, I was charged to convert an Windows CGI application, written in C, to a Java servlet, I have made the load balancer for the Senior distrubuted system, I help to write a new configuration API to the legacy products, and help to built the new installer from the ground up.
+After the promotion, I was moved to a team that was responsible to make an architectural restructuring to support a new way to install the Senior distributed system, which have pretty more complex implementations than in the internationalization project. In this post, I was charged to convert an Windows CGI application, written in C, to a Java servlet, I have made the load balancer for the Senior distrubuted system, I help to write a new configuration API to the legacy products, and help to built the new installer from the ground up.
 
-#### Backend Team Intern
+#### Backend Team - Intern
 
 *SENIOR SA &mdash; Blumenau, SC, Brazil*<br/>
 *Feb '09 - Feb '10*
@@ -63,6 +85,11 @@ As a member of the internship program, I worked mainly at the maintenance of leg
 <h3 id="find-me">Find me at</h3>
 
 +55 (47) 9128-3740<br/>
++55 (47) 3209-0841<br/>
 Rua Santa Cruz, 194<br/>
 Blumenau, Santa Catarina<br/>
 Brazil
+
+--
+
+Access this resume in portuguese [here]({{site.url}}/resume/pt-br).
