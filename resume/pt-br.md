@@ -84,7 +84,7 @@ Como um membro do programa de estagi√°rios, trabalhei principalmente na manuten√
 
 <h3 id="find-me">Me ache em</h3>
 
-+55 (47) 9128-3740<br/>
+<!--+55 (47) 9128-3740<br/-->
 +55 (47) 3209-0841<br/>
 Rua Santa Cruz, 194<br/>
 Blumenau, Santa Catarina<br/>
