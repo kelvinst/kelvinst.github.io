@@ -12,7 +12,7 @@ layout: page
 
 <h3 id="biography">Biografia</h3>
 
-Sou um desenvolvedor entusiasta cursando Ciência da Computação na FURB. E meus principais estudos agora estão focados em desenvolvimento web com Ruby on Rails.
+Sou um desenvolvedor entusiasta cursando Ciência da Computação na sFURB. E meus principais estudos agora estão focados em desenvolvimento web com Ruby on Rails.
 
 Profissionalmente falando, trabalhei principalmente com desenvolvimento Java e Delphi, mas no caso de interesses, eu realmente me "apaixonei" pelo Ruby, que é o principal motivo pelo qual entrei na comunidade open source.
 
