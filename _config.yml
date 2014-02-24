@@ -1,4 +1,5 @@
 name: kelvinst blog
+encoding: utf-8
 pygments: true
 permalink: pretty
 

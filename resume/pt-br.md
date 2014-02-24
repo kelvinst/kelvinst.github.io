@@ -2,87 +2,87 @@
 layout: page
 ---
 
-### Tabela de conteúdo
+### Tabela de conteÃºdo
 
 - [Biografia](#biography)
-- [Educação](#education)
+- [EducaÃ§Ã£o](#education)
 - [Habilidades](#skills)
-- [Experiência](#work-exp)
-- [Me ache](#find-me)
+- [ExperiÃªncia](#work-exp)
+- [Me encontre](#find-me)
 
 <h3 id="biography">Biografia</h3>
 
-Sou um desenvolvedor entusiasta cursando Ciência da Computação na FURB. E meus principais estudos agora estão focados em desenvolvimento web com Ruby on Rails.
+Sou um desenvolvedor entusiasta cursando CiÃªncia da ComputaÃ§Ã£o na FURB. E meus principais estudos agora estÃ£o focados em desenvolvimento web com Ruby on Rails.
 
-Profissionalmente falando, trabalhei principalmente com desenvolvimento Java e Delphi, mas no caso de interesses, eu realmente me "apaixonei" pelo Ruby, que é o principal motivo pelo qual entrei na comunidade open source.
+Profissionalmente falando, trabalhei principalmente com desenvolvimento Java e Delphi, mas no caso de interesses, eu realmente me "apaixonei" pelo Ruby, que Ã© o principal motivo pelo qual entrei na comunidade open source.
 
-Quando você não me vir programando, você me verá lendo, principalmente livros cristãos, praticando esportes como futebol e corrida, ou tendo um happy hour com meus amigos e minha esposa.
+Quando vocÃª nÃ£o me vir programando, vocÃª me verÃ¡ lendo, principalmente livros cristÃ£os, praticando esportes como futebol e corrida, ou tendo um happy hour com meus amigos e minha esposa.
 
-<h3 id="education">Educação</h3>
+<h3 id="education">EducaÃ§Ã£o</h3>
 
 **FURB** &mdash; *Blumenau, SC, Brasil*<br/>
 *Feb '10 - Presente*<br/>
-Bacharelado em ciência da computação
+Bacharelado em ciÃªncia da computaÃ§Ã£o
 
 <h3 id="skills">Habilidades</h3>
 
-Profissionalmente trabalhei com várias linguagens, primeiro com produtos legados escritos em Delphi, depois convertendo uma aplicação C para Java, depois escrevendo novos produtos em Java. E nos estudos na universidade, não foi muito diferente, onde os trabalhos de casa, na maioria, deveriam ser escritos em Java.
+Profissionalmente trabalhei com vÃ¡rias linguagens, primeiro com produtos legados escritos em Delphi, depois convertendo uma aplicaÃ§Ã£o C para Java, depois escrevendo novos produtos em Java. E nos estudos na universidade, nÃ£o foi muito diferente, onde os trabalhos de casa, na maioria, deveriam ser escritos em Java.
 
-Então, até o fim de 2012, eu era um típico desenvolvedor Java/Delphi, com alguns passos em outras linguagens com intenção de aprender, mas nada mais profundo que isso. Então, em um dia radiante de 2013, eu fiz um "fork" na minha vida de desenvolvedor, quando comecei a contribuir ativamente em projetos "open-source", e comecei a mergulhar neste mundo maravilhoso da comunidade Ruby e descobrir, cada dia mais, o que este mundo pode me ensinar.
+EntÃ£o, atÃ© o fim de 2012, eu era um tÃ­pico desenvolvedor Java/Delphi, com alguns passos em outras linguagens com intenÃ§Ã£o de aprender, mas nada mais profundo que isso. EntÃ£o, em um dia radiante de 2013, eu fiz um "fork" na minha vida de desenvolvedor, quando comecei a contribuir ativamente em projetos "open-source", e comecei a mergulhar neste mundo maravilhoso da comunidade Ruby e descobrir, cada dia mais, o que este mundo pode me ensinar.
 
-Melhorar minhas habilidades de programação sempre foi meu objetivo, e com Ruby, eu estou achando mais e mais maneiras de me fazer melhor, e discutir soluções melhores para tudo que eu estou fazendo.
+Melhorar minhas habilidades de programaÃ§Ã£o sempre foi meu objetivo, e com Ruby, eu estou achando mais e mais maneiras de me fazer melhor, e discutir soluÃ§Ãµes melhores para tudo que eu estou fazendo.
 
-Se você quer saber mais sobre minhas contribuições "open-source", dê uma olhada na minha [conta do GitHub](https://github.com/kelvinst) ou leia meu [Open Source Report Card](http://osrc.dfm.io/kelvinst). Se você quiser saber algumas de minhas "conquistas" como um desenvolvedor no GitHub, verifique minha [conta no CoderWall](https://coderwall.com/kelvinst). E se você quiser saber algumas coisas que eu sei sobre desenvolvimento web, verifique meu [Code School Report Card](https://www.codeschool.com/users/kelvinst).
+Se vocÃª quer saber mais sobre minhas contribuiÃ§Ãµes "open-source", dÃª uma olhada na minha [conta do GitHub](https://github.com/kelvinst) ou leia meu [Open Source Report Card](http://osrc.dfm.io/kelvinst). Se vocÃª quiser saber algumas de minhas "conquistas" como um desenvolvedor no GitHub, verifique minha [conta no CoderWall](https://coderwall.com/kelvinst). E se vocÃª quiser saber algumas coisas que eu sei sobre desenvolvimento web, verifique meu [Code School Report Card](https://www.codeschool.com/users/kelvinst).
 
-Sobre idiomas, falo fluentemente português brasileiro (obviamente), inglês num nível avançado e alemão num nível bem básico.
+Sobre idiomas, falo fluentemente portuguÃªs brasileiro (obviamente), inglÃªs num nÃ­vel avanÃ§ado e alemÃ£o num nÃ­vel bem bÃ¡sico.
 
 Abaixo, algumas coisas com o que trabalhei (profissionalmente, contribuindo para projetos "open-source" ou apenas estudando).
 
-#### Linguagens de programação
+#### Linguagens de programaÃ§Ã£o
 
-- **Avançado:** Java, Object Pascal, Ruby
-- **Intermediário:** JavaScript
-- **Básico:** Python, LISP, R, Objective-C, CoffeScript
+- **AvanÃ§ado:** Java, Object Pascal, Ruby
+- **IntermediÃ¡rio:** JavaScript
+- **BÃ¡sico:** Python, LISP, R, Objective-C, CoffeScript
 
 #### Frameworks
 
-- **Avançado:** Delphi VCL, Ruby on Rails
-- **Básico:** Spring
+- **AvanÃ§ado:** Delphi VCL, Ruby on Rails
+- **BÃ¡sico:** Spring
 
 #### IDEs/Editores
 
-- **Avançado:** Eclipse, Delphi, Sublime Text
-- **Intermediário:** Microsoft Visual Studio, RubyMine
+- **AvanÃ§ado:** Eclipse, Delphi, Sublime Text
+- **IntermediÃ¡rio:** Microsoft Visual Studio, RubyMine
 
 #### Tecnologias/Aplicativos
 
 - HTML5, CSS3, Maven, Hudson CI, Git, CVS, SVN, YAML, Office Studio, Microsoft Project, Travis CI, GitHub, CodeClimate, Node.js, Sass, Foundation, jQuery, Backbone.js, Bootstrap, RubyGems, RVM, Bundler, Bower, Compass, Jekyll, Nano, Devise, Pry, Markdown, Vim, Emacs, Gradle, Rugged
 
-<h3 id="work-exp">Experiência</h3>
+<h3 id="work-exp">ExperiÃªncia</h3>
 
 
-#### Tecnologia - Desenvolvedor nível 2
+#### Tecnologia - Desenvolvedor nÃ­vel 2
 
 *SENIOR SA &mdash; Blumenau, SC, Brasil*<br/>
 *Ago '12 - Presente*
 
-Depois de uma nova promoção e o fim da reestruturação arquitetural, eu fui movido para o time de manutenção, para suportar a adaptação com a nova arquitetura. O que me levou a algumas experiências novas, visitando alguns clientes finais dos sistemas. Depois das adaptações, eu fui movido para o time de criação da ferramenta de customização, onde fui encarregado de desenvolver plugins para a IDE Eclipse que constituiam uma "feature" para criar aplicações web com o framework de desenvolvimento web criado pela Senior, baseado na arquitetura SOA.
+Depois de uma nova promoÃ§Ã£o e o fim da reestruturaÃ§Ã£o arquitetural, eu fui movido para o time de manutenÃ§Ã£o, para suportar a adaptaÃ§Ã£o com a nova arquitetura. O que me levou a algumas experiÃªncias novas, visitando alguns clientes finais dos sistemas. Depois das adaptaÃ§Ãµes, eu fui movido para o time de criaÃ§Ã£o da ferramenta de customizaÃ§Ã£o, onde fui encarregado de desenvolver plugins para a IDE Eclipse que constituiam uma "feature" para criar aplicaÃ§Ãµes web com o framework de desenvolvimento web criado pela Senior, baseado na arquitetura SOA.
 
-#### Tecnologia - Desenvolvedor nível 1
+#### Tecnologia - Desenvolvedor nÃ­vel 1
 
 *SENIOR SA &mdash; Blumenau, SC, Brasil*<br/>
 *Fev '10 - Ago '12*
 
-Depois da promoção, fui movido para o time responsável em fazer uma reestruturação na arquitetura do sistema para suportar uma nova maneira de instalar o sistema distribuído da Senior, o qual teve várias implementações mais complexas do que o projeto de internacionalização. Neste cargo, fui encarregado de converter uma aplicação CGI, escrita em C, para um servlet Java, criei um balanceador de carga para o sistema distribuído da Senior, ajudei a escrever uma nova API de configurações para os produtos legados, e ajudei a construir o novo instalador desde o seu início.
+Depois da promoÃ§Ã£o, fui movido para o time responsÃ¡vel em fazer uma reestruturaÃ§Ã£o na arquitetura do sistema para suportar uma nova maneira de instalar o sistema distribuÃ­do da Senior, o qual teve vÃ¡rias implementaÃ§Ãµes mais complexas do que o projeto de internacionalizaÃ§Ã£o. Neste cargo, fui encarregado de converter uma aplicaÃ§Ã£o CGI, escrita em C, para um servlet Java, criei um balanceador de carga para o sistema distribuÃ­do da Senior, ajudei a escrever uma nova API de configuraÃ§Ãµes para os produtos legados, e ajudei a construir o novo instalador desde o seu inÃ­cio.
 
-#### Tecnologia - Estagiário
+#### Tecnologia - EstagiÃ¡rio
 
 *SENIOR SA &mdash; Blumenau, SC, Brazil*<br/>
 *Fev '09 - Fev '10*
 
-Como um membro do programa de estagiários, trabalhei principalmente na manutenção dos produtos legados, escritos em Delphi, onde fui encarregado principalmente de correções de erros. No fim do estágio, fui transferido para outro time de três pessoas, para fazer uma API para suportar a internacionalização do sistema, onde eu comecei a fazer implementações mais complexas para novos recursos na API backend do Delphi.
+Como um membro do programa de estagiÃ¡rios, trabalhei principalmente na manutenÃ§Ã£o dos produtos legados, escritos em Delphi, onde fui encarregado principalmente de correÃ§Ãµes de erros. No fim do estÃ¡gio, fui transferido para outro time de trÃªs pessoas, para fazer uma API para suportar a internacionalizaÃ§Ã£o do sistema, onde eu comecei a fazer implementaÃ§Ãµes mais complexas para novos recursos na API backend do Delphi.
 
-<h3 id="find-me">Me ache em</h3>
+<h3 id="find-me">Me encontre</h3>
 
 +55 (47) 9128-3740<br/>
 +55 (47) 3209-0841<br/>
@@ -92,4 +92,4 @@ Brasil
 
 --
 
-Acesse este mesmo currículo em inglês [aqui]({{site.url}}/resume).
+Acesse este mesmo currÃ­culo em inglÃªs [aqui]({{site.url}}/resume).
