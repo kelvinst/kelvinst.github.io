@@ -21,20 +21,20 @@ Quando você não me vir programando, você me verá lendo, principalmente livro
 <h3 id="education">Educação</h3>
 
 **FURB** &mdash; *Blumenau, SC, Brasil*<br/>
-*Feb '10 - Present*<br/>
-Bachareldo em ciência da computação
+*Feb '10 - Presente*<br/>
+Bacharelado em ciência da computação
 
 <h3 id="skills">Habilidades</h3>
 
-Profissionalmente trabalhei em várias linguagens, primeiro com produtos legados escritos em Delphi, depois convertendo uma aplicação C para Java, depois escrevendo novos produtos em Java. E nos estudos na universidade, não foi muito diferente, onde os trabalhos de casa, na marioria, deveriam ser escritos em Java.
+Profissionalmente trabalhei com várias linguagens, primeiro com produtos legados escritos em Delphi, depois convertendo uma aplicação C para Java, depois escrevendo novos produtos em Java. E nos estudos na universidade, não foi muito diferente, onde os trabalhos de casa, na maioria, deveriam ser escritos em Java.
 
-Então, até o fim de 2012, eu era um típico desenvolvedor Java/Delphi, com alguns passos em outras linguagens com intenção de aprender sintaxe, mas nada mais profundo que isso. Então, em um dia radiante de 2013, eu fiz um "fork" na minha vida de desenvolvedor, quando comecei a contribuir ativamente em projetos "open-source", e comecei a mergulhar neste mundo maravilhoso da comunidade Ruby e descobrir, cada dia mais, o que este mundo pode me ensinar.
+Então, até o fim de 2012, eu era um típico desenvolvedor Java/Delphi, com alguns passos em outras linguagens com intenção de aprender, mas nada mais profundo que isso. Então, em um dia radiante de 2013, eu fiz um "fork" na minha vida de desenvolvedor, quando comecei a contribuir ativamente em projetos "open-source", e comecei a mergulhar neste mundo maravilhoso da comunidade Ruby e descobrir, cada dia mais, o que este mundo pode me ensinar.
 
 Melhorar minhas habilidades de programação sempre foi meu objetivo, e com Ruby, eu estou achando mais e mais maneiras de me fazer melhor, e discutir soluções melhores para tudo que eu estou fazendo.
 
 Se você quer saber mais sobre minhas contribuições "open-source", dê uma olhada na minha [conta do GitHub](https://github.com/kelvinst) ou leia meu [Open Source Report Card](http://osrc.dfm.io/kelvinst). Se você quiser saber algumas de minhas "conquistas" como um desenvolvedor no GitHub, verifique minha [conta no CoderWall](https://coderwall.com/kelvinst). E se você quiser saber algumas coisas que eu sei sobre desenvolvimento web, verifique meu [Code School Report Card](https://www.codeschool.com/users/kelvinst).
 
-Sobre idiomas, falo fluentemente protuguês brasileiro (obviamente), inglês num nível avançado, e alemão num nível bem básico.
+Sobre idiomas, falo fluentemente português brasileiro (obviamente), inglês num nível avançado e alemão num nível bem básico.
 
 Abaixo, algumas coisas com o que trabalhei (profissionalmente, contribuindo para projetos "open-source" ou apenas estudando).
 
