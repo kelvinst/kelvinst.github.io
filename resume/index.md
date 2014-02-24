@@ -12,7 +12,7 @@ layout: page
 
 <h3 id="biography">Biography</h3>
 
-I'm an enthusiast developer coursing Computer Science at FURB. Professionaly speaking, I mainly worked with Java and Delphi development, but in the case of interests, I really fall in love with Ruby, that is the main cause of my open source world's introduction.
+I'm an enthusiast developer coursing Computer Science at FURB. I'm a poliglot in the case of programming languages, already worked professionaly with Delphi, C and Java. I've already studied many languages. Python, C#, and others. But actually my primary studies is in Ruby on Rails web developments, and I was being helping in some open-source projects that uses Ruby  on Rails, and some other Ruby projects.
 
 When you don't find me programming, you'll find me reading, principally christian books, practicing sports as soccer or running, or having a happy hour with my friends and my wife.
 
@@ -26,9 +26,9 @@ Computer science bachelorhood
 
 Professionally I worked on many languages and tools, first with Delphi legacy products, converting a C application to Java, then writing new products in Java. And studying at the university, it was not very different, where the homeworks, at most, must be written in Java.
 
-So, until the end of 2012, I was a typical Java/Delphi programmer, with some steps into other languages for study purposes, but nothing more deep than this. Then, in some shiny day of 2013, I've made a fork in my developer's life, when I start to contribute actively in open source projects, and start to dive in this awesome Ruby community and discover every day more, what this world can teach me.
+So, until the end of 2012, I was a typical Java/Delphi programmer, with some steps into other languages for study purposes, but nothing more deep than this. Then, in some shiny day of 2013, I've made a fork in my developer's life, when I start to contribute actively in open source projects, and start to dive in this awesome community and discover every day more, what this world can teach me.
 
-Improve my programming skills was always my objective, and with Ruby, I am finding even more ways to make me better, and discuss better solutions for everything I am doing, even using other languages.
+Improve my programming skills was always my objective, and with this new step, I am finding even more ways to make me better, and reach better solutions for everything I am doing, even using other languages.
 
 If you want to know about my open-source contributions, take a look at my [GitHub account](https://github.com/kelvinst) or read my [Open Source Report Card](http://osrc.dfm.io/kelvinst). If you want to know some of my achievements as a developer in GitHub, check my [CoderWall account](https://coderwall.com/kelvinst). And if you want to know somethings that I know about web development, check my [Code School Report Card](https://www.codeschool.com/users/kelvinst).
 

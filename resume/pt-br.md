@@ -12,9 +12,7 @@ layout: page
 
 <h3 id="biography">Biografia</h3>
 
-Sou um desenvolvedor entusiasta cursando Ciência da Computação na FURB. E meus principais estudos agora estão focados em desenvolvimento web com Ruby on Rails.
-
-Profissionalmente falando, trabalhei principalmente com desenvolvimento Java e Delphi, mas no caso de interesses, eu realmente me "apaixonei" pelo Ruby, que é o principal motivo pelo qual entrei na comunidade open source.
+Sou um desenvolvedor entusiasta cursando Ciência da Computação na FURB. Sou poliglota em questão de linguagens de programação, já trabalhando profissionalmente com Delphi, C e Java. Já estudei muitas linguagens também. Python, C#, entre outras. Mas meus principais estudos agora estão focados em desenvolvimento web com Ruby on Rails, e ando ajudando com vários projetos open-source que utilizam Ruby on Rails, e outros projetos Ruby.
 
 Quando você não me vir programando, você me verá lendo, principalmente livros cristãos, praticando esportes como futebol e corrida, ou tendo um happy hour com meus amigos e minha esposa.
 
@@ -28,9 +26,9 @@ Bacharelado em ciência da computação
 
 Profissionalmente trabalhei com várias linguagens, primeiro com produtos legados escritos em Delphi, depois convertendo uma aplicação C para Java, depois escrevendo novos produtos em Java. E nos estudos na universidade, não foi muito diferente, onde os trabalhos de casa, na maioria, deveriam ser escritos em Java.
 
-Então, até o fim de 2012, eu era um típico desenvolvedor Java/Delphi, com alguns passos em outras linguagens com intenção de aprender, mas nada mais profundo que isso. Então, em um dia radiante de 2013, eu fiz um "fork" na minha vida de desenvolvedor, quando comecei a contribuir ativamente em projetos "open-source", e comecei a mergulhar neste mundo maravilhoso da comunidade Ruby e descobrir, cada dia mais, o que este mundo pode me ensinar.
+Então, até o fim de 2012, eu era um típico desenvolvedor Java/Delphi, com alguns passos em outras linguagens com intenção de aprender, mas nada mais profundo que isso. Então, em um dia radiante de 2013, eu fiz um "fork" na minha vida de desenvolvedor, quando comecei a contribuir ativamente em projetos "open-source", e comecei a mergulhar neste mundo maravilhoso desta comunidade e descobrir, cada dia mais, o que este mundo pode me ensinar.
 
-Melhorar minhas habilidades de programação sempre foi meu objetivo, e com Ruby, eu estou achando mais e mais maneiras de me fazer melhor, e discutir soluções melhores para tudo que eu estou fazendo.
+Melhorar minhas habilidades de programação sempre foi meu objetivo, e com este novo passo, eu estou achando mais e mais maneiras de me fazer melhor, e alcançar soluções melhores para tudo que eu estou fazendo.
 
 Se você quer saber mais sobre minhas contribuições "open-source", dê uma olhada na minha [conta do GitHub](https://github.com/kelvinst) ou leia meu [Open Source Report Card](http://osrc.dfm.io/kelvinst). Se você quiser saber algumas de minhas "conquistas" como um desenvolvedor no GitHub, verifique minha [conta no CoderWall](https://coderwall.com/kelvinst). E se você quiser saber algumas coisas que eu sei sobre desenvolvimento web, verifique meu [Code School Report Card](https://www.codeschool.com/users/kelvinst).
 
