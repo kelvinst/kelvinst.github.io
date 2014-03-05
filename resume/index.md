@@ -83,9 +83,8 @@ As a member of the internship program, I worked mainly at the maintenance of leg
 <h3 id="find-me">Find me at</h3>
 
 +55 (47) 9128-3740<br/>
-+55 (47) 3209-0841<br/>
-Rua Santa Cruz, 194<br/>
-Blumenau, Santa Catarina<br/>
+Rua Anne Frank, 1659<br/>
+Curitiba, Paraná<br/>
 Brazil
 
 --
