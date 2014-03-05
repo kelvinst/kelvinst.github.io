@@ -83,9 +83,8 @@ Como um membro do programa de estagiários, trabalhei principalmente na manuten�
 <h3 id="find-me">Me encontre</h3>
 
 +55 (47) 9128-3740<br/>
-+55 (47) 3209-0841<br/>
-Rua Santa Cruz, 194<br/>
-Blumenau, Santa Catarina<br/>
+Rua Anne Frank, 1659<br/>
+Curitiba, Paraná<br/>
 Brasil
 
 --
